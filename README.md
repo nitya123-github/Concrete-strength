@@ -41,7 +41,11 @@ Random Forests,
 Deep Nueral Nework
 
 Metric - Since the target variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) and R2 Score (Coefficient of Determination) have been used.
-And a recommendation system is developed as which algorithm is best choice for predicting accurate concrete strength
+And a recommendation system is developed as which algorithm is best choice for predicting accurate concrete strength.
+
+For code please refer to my kaggle link: https://www.kaggle.com/nityasreepaladugu/predicting-concrete-compressive-strength-with-ml
+
+For deep nueral network code : https://www.kaggle.com/nityasreepaladugu/concrete-strength-using-a-deep-neural-network
 
 
 
