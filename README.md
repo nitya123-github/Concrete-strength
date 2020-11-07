@@ -1,3 +1,45 @@
 # Concrete-strength
-Predicting the compressive strength of concrete using ML methods and  Artificial Nueral Networks
-To  predict the concrete strength of using the  composition of its mixture and age of the concrete.Concrete has been widely used in recent years because its production compliments environmental conservation. It is a standard industrial practice that the concrete is classified based on grades.This grade is nothing but the  Compressive Strength  of the concrete cube or cylinder. Cube or Cylinder samples  are usually tested under a compression testing machine to obtain the strength of concrete.The test requisites differ country to country based on the design code. ML methods, Nueral networks have been used to increase the  prediction accuracy of concrete properties,and the data derived from the literature sources were used. Regressionmodels tend to be used for the prediction of the compressive strength of high strength concrete. These models also demonstrate how the concrete compressive strength depends on the mixing ratios. With the use of  Machine Learning Model, there will be no limitation ofthe complexity increasing number of variables. This Model and train and test the given population of concrete and with the best performing machine learning model it can effortlessly predict the strength of the concrete with much higher  accuracy than traditional methods. The neural network (NN) models givehigh prediction accuracy, and the research results conform tosome rules of mix proportion of concrete.And also   a recoomendation system is developed by applying various ML methods,Artificial nueral network methods to predict the concrete strength from its components accurately.
+Predicting the compressive strength of concrete using ML methods and  Artificial Nueral Networks.
+
+1) EXISTING SOCIETAL ISSUE:
+In earlier days, the concrete strength is measure through other traditional methods like using drill holes, weight spring, or using sensors. But that requires a significant destruction of test sample and thereby increasing the cost. The recommended wait time for testing the cylinder is 28 days to ensure correct results. This consumes a lot of time and requires a lot of labour to prepare different prototypes and test them. Also, this method is prone to human error and one small mistake can cause the wait time to drastically increase.
+
+2) PROPOSED SOLUTION:
+The focus of this project is the application of machine learning process,Artificial nueral networks and their suitability to model concrete compressive strength compared with early models obtained from the literature and compared with some conventional approaches and also a recoomendation system is developed by applying various ML methods,Artificial nueral network methods to predict the concrete strength from its components accurately and then looking for the optimal combination of components which increases the strength.
+
+3)DATA DESCRIPTION:
+Data is obtained from UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+
+Number of instances - 1030
+Number of Attributes - 9
+Attribute breakdown - 8 quantitative inputs, 1 quantitative output
+
+Attribute information
+Inputs
+Cement
+Blast Furnace Slag
+Fly Ash
+Water
+Superplasticizer
+Coarse Aggregate
+Fine Aggregate
+All above features measured in kg/$m^3$
+Age (in days)
+Output
+Concrete Compressive Strength (Mpa)
+
+4)  MODELLING AND EVALUATION:
+
+Algorithms used
+Linear regression
+Lasso regression
+Ridge regression
+Decision Trees
+Random Forests
+
+
+
+
+
+
+
