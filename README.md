@@ -1,5 +1,5 @@
 # Concrete-strength
-Predicting the compressive strength of concrete using ML methods and  Artificial Nueral Networks.
+Predicting the compressive strength of concrete using ML methods and Deep Nueral Networks.
 
    1) EXISTING SOCIETAL ISSUE:
 In earlier days, the concrete strength is measure through other traditional methods like using drill holes, weight spring, or using sensors. But that requires a significant destruction of test sample and thereby increasing the cost. The recommended wait time for testing the cylinder is 28 days to ensure correct results. This consumes a lot of time and requires a lot of labour to prepare different prototypes and test them. Also, this method is prone to human error and one small mistake can cause the wait time to drastically increase.
