@@ -9,22 +9,23 @@ The focus of this project is the application of machine learning process,Artific
 
   3)DATA DESCRIPTION:
 Data is obtained from UCI Machine Learning Repository and this dataset is used for all ML Algorithms. https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+
 Number of instances - 1030
 Number of Attributes - 9
 Attribute breakdown - 8 quantitative inputs, 1 quantitative output
 
 Attribute information
-Inputs
-Cement
-Blast Furnace Slag
-Fly Ash
-Water
-Superplasticizer
-Coarse Aggregate
-Fine Aggregate
-All above features measured in kg/$m^3$
-Age (in days)
-Output
+Inputs:
+Cement,
+Blast Furnace Slag,
+Fly Ash,
+Water,
+Superplasticizer,
+Coarse Aggregate,
+Fine Aggregate,
+All above features measured in kg/$m^3$,
+Age (in days),
+Output:
 Concrete Compressive Strength (Mpa)
 
 Dataset used for ANN Model is https://www.kaggle.com/maajdl/yeh-concret-data
@@ -32,12 +33,13 @@ Dataset used for ANN Model is https://www.kaggle.com/maajdl/yeh-concret-data
   4)MODELLING AND EVALUATION:
 
 ML Algorithms used:
-Linear regression
-Lasso regression
-Ridge regression
-Decision Trees
-Random Forests
+Linear regression,
+Lasso regression,
+Ridge regression,
+Decision Trees,
+Random Forests,
 ANN model
+
 Metric - Since the target variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) and R2 Score (Coefficient of Determination) have been used.
 And a recommendation system is developed as which algorithm is best choice for predicting accurate concrete strength
 
