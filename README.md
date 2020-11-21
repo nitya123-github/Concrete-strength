@@ -22,7 +22,7 @@ Number of instances - 1030
 Number of Attributes - 9
 Attribute breakdown - 8 quantitative inputs, 1 quantitative output
 
-Attribute information
+<h4> Attribute information: </h4>
 
 Inputs:
 Cement,
