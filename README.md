@@ -53,6 +53,11 @@ Deep Nueral Nework
 Metric - Since the target variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) and R2 Score (Coefficient of Determination) have been used.
 And a recommendation system is developed as which algorithm is best choice for predicting accurate concrete strength.
 
+<h3> CONCLUSION: </h3>
+Analysed the Compressive Strength and used Machine Learning to Predict the Compressive Strength of Concrete. We have used Linear Regression and its variations, Decision Trees and Random Forests to make predictions and compared their performance. Random Forest Regressor has the lowest RMSE and is a good choice for this problem. Also, we can further improve the performance of the algorithm by tuning the hyperparameters by performing a grid search or random search.
+
+NN approaches combine the complexity of many statistical techniques with machine learning techniques and attributed as a black-box which allows NN to be applied in all engineering disciplines. It comes out as the best possible model for the prediction of compressive strength of concrete. It has predicted with high accuracy for all the curing ages, that is, 28, 56, and 91 days.
+
 <h4> For ML code please refer to my kaggle link:</h4>
 
 https://www.kaggle.com/nityasreepaladugu/predicting-concrete-compressive-strength-with-ml
